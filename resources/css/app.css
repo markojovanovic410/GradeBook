@@ -1,0 +1,12 @@
+.router-link-active{
+    color: black;
+    font-weight: bold;
+}
+.top-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.top-info span{
+    font-weight: bold;
+}
